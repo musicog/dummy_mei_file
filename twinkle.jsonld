@@ -1,0 +1,239 @@
+[
+  {
+    "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.jsonld#segmentation",
+    "@type": [
+      "http://www.linkedmusic.org/ontologies/segment/SegmentLine"
+    ]
+  },
+  {
+    "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.jsonld#section-0000000408345772",
+    "@type": [
+      "http://www.linkedmusic.org/ontologies/segment/Segment"
+    ],
+    "http://purl.org/vocab/frbr/core#embodiment": [
+      {
+        "@id": "_:ub1bL20C21"
+      }
+    ],
+    "http://www.linkedmusic.org/ontologies/segment/onSegmentLine": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.jsonld#segmentation"
+      }
+    ],
+    "https://meld.linkedmusic.org/terms/order": [
+      {
+        "@value": "0"
+      }
+    ]
+  },
+  {
+    "@id": "_:ub1bL20C21",
+    "@type": [
+      "https://meld.linkedmusic.org/terms/MEIManifestation",
+      "http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#member": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#section-0000000408345772"
+      }
+    ],
+    "https://meld.linkedmusic.org/terms/endsWith": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000912173455"
+      }
+    ],
+    "https://meld.linkedmusic.org/terms/measures": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000002016233059"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000000048969708"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000000929161099"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000001734564031"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000000114694531"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000000048181119"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000001043690843"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000002127578302"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000001962645406"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000001309161386"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000002141251916"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#measure-0000000203671321"
+      }
+    ],
+    "https://meld.linkedmusic.org/terms/notes": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000828590007"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000852504033"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000292275413"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001003304248"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000187594319"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000452633695"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001684133768"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001910099521"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000282994136"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000872403281"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001600705160"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001842280427"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000893061438"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000470588455"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000912173455"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001225226861"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001848373958"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000193806043"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001139956895"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001179993715"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001965947630"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000803806412"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001098524254"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001298988295"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000170287634"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000394246035"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000511530999"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000889838493"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001448485273"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001743631423"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000741566780"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000638599420"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000441055448"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001418832148"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000002132679551"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000219013982"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000597400911"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000044566085"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001962391917"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000001163653925"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000692766643"
+      },
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000555800123"
+      }
+    ],
+    "https://meld.linkedmusic.org/terms/startsWith": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei#note-0000000889838493"
+      }
+    ]
+  },
+  {
+    "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.jsonld",
+    "@type": [
+      "http://purl.org/ontology/mo/Score"
+    ],
+    "http://purl.org/ontology/mo/published_as": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei"
+      }
+    ],
+    "https://meld.linkedmusic.org/terms/segments": [
+      {
+        "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.jsonld#segmentation"
+      }
+    ]
+  },
+  {
+    "@id": "https://raw.githubusercontent.com/musicog/dummy_mei_file/main/twinkle.mei",
+    "@type": [
+      "http://purl.org/ontology/mo/PublishedScore"
+    ]
+  }
+]
